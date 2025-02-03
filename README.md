@@ -1,5 +1,5 @@
 <p align="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f3ede1,100:d6c29b&text=Salam!&fontColor=ffffff">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f3ede1,100:d6c29b&text=Heyy!&fontColor=ffffff">
 </p>
 <h1 align="center">To me code is like clay waiting to take shape ^_^</h1>
 <!-- <h1 align="center">Here to learn, share, and grow together ^_^</h1> -->

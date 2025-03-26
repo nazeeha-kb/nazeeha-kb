@@ -6,7 +6,7 @@
 
 <h2>👩🏽‍💻 About Me</h2>
 <p>
-  I am an aspiring web developer currently learning JS and backend.<br>
+  I am an aspiring web developer currently learning React and backend.<br>
   Love to create with code - Here to learn, share, and grow together <3
 </p>
 

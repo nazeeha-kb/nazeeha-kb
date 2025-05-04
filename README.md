@@ -1,7 +1,7 @@
 <p align="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:f3ede1,100:d6c29b&text=Heyy!&fontColor=ffffff">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:af6ac4,100:c46b6a&text=Heyy!&fontColor=ffffff">
 </p>
-<h1 align="center">To me code is like clay waiting to take shape ^_^</h1>
+<h1 align="center">To me code is like clay waiting to take shape</h1>
 <!-- <h1 align="center">Here to learn, share, and grow together ^_^</h1> -->
 
 <h2>👩🏽‍💻 About Me</h2>
@@ -31,5 +31,5 @@
 
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:f3ede1,100:d6c29b&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:af6ac4,100:c46b6a&fontColor=ffffff"/>
 </p>

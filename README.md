@@ -1,7 +1,7 @@
 <p align="center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:af6ac4,100:c46b6a&text=Heyy!&fontColor=ffffff">
 </p>
-<h1 align="center">To me code is like clay waiting to take shape</h1>
+<h1 align="center">To me code is clay waiting to take shape</h1>
 <!-- <h1 align="center">Here to learn, share, and grow together ^_^</h1> -->
 
 <h2>👩🏽‍💻 About Me</h2>
@@ -27,7 +27,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+
 
 </p>
 <p align="center">

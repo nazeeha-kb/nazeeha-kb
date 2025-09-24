@@ -1,13 +1,14 @@
 <p align="center">
-  <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:af6ac4,100:c46b6a&text=Heyy!&fontColor=ffffff">
+  <img src = "https://capsule-render.vercel.app/api?type=waving&height=100&color=0:af6ac4,100:c46b6a">
 </p>
-<h1 align="center">To me code is clay waiting to take shape</h1>
-<!-- <h1 align="center">Here to learn, share, and grow together ^_^</h1> -->
+<h1 align="center">Hey there! I'm Nazeeha</h1>
 
 <h2>👩🏽‍💻 About Me</h2>
 <p>
-  I am an aspiring web developer currently learning React and backend.<br>
-  Love to create with code - Here to learn, share, and grow together <3
+  I am a web developer, with a focus on front end<br>
+  I really enjoy problem solving and creating with code.
+
+  Currently I'm working on a full-stack project.
 </p>
 
 <p>Let's connect!<br>

@@ -5,10 +5,8 @@
 
 <h2>👩🏽‍💻 About Me</h2>
 <p>
-  I am a web developer, with a focus on front end<br>
+  A junior web developer, with focus on front end<br>
   I really enjoy problem solving and creating with code.
-
-  Currently I'm working on a full-stack project.
 </p>
 
 <p>Let's connect!<br>

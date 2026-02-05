@@ -5,7 +5,7 @@
 
 <h2>👩🏽‍💻 About Me</h2>
 <p>
-  A junior web developer, with focus on front end<br>
+  I'm a web developer, with focus on front end<br>
   I really enjoy problem solving and creating with code.
 </p>
 

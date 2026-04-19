@@ -5,8 +5,6 @@
 
 <h1 align="center">Hey there! I'm Nazeeha 👩🏽‍💻</h1>
 
----
-
 ## 👩🏽‍💻 About Me
 
 I'm a Frontend Web Developer with hands-on experience building responsive websites using **React.js, Next.js, and Tailwind CSS**.  
@@ -15,7 +13,6 @@ I enjoy translating Figma designs into clean, user-friendly interfaces and build
 
 Comfortable with Git, responsive design, and team collaboration. Currently focused on improving my full-stack skills and building real-world projects.
 
----
 
 ## 🔨 Tools & Technologies
 
@@ -41,7 +38,6 @@ Comfortable with Git, responsive design, and team collaboration. Currently focus
 
 </p>
 
----
 
 ## 📫 Let's Connect
 
@@ -51,7 +47,6 @@ Comfortable with Git, responsive design, and team collaboration. Currently focus
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:af6ac4,100:c46b6a"/>
